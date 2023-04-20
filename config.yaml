@@ -43,9 +43,9 @@ params:
   home: Home
   layout: "1"
   description: This is meta description
-  preloader: true
+  preloader: false
   search: true
-  author: Themefisher
+  author: Fungexpo
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
@@ -69,6 +69,12 @@ params:
     URL: "#"
 menu:
   main:
+  - name: Blog
+    URL: ''
+    weight: ''
+  - name: Fajlista
+    URL: ''
+    weight: ''
   - name: About
     URL: about
     weight: "2"
