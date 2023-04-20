@@ -3,7 +3,7 @@ title: Organize Your Life With 10 Simple rule
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-5.jpg
+image: "/images/dsc02632.JPG"
 categories:
 - Nature
 tags:
