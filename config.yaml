@@ -1,5 +1,5 @@
 ---
-baseURL: "/"
+baseURL: https://filedn.eu/l2Crniqwqxt0MexLVMlsIsz/proba/
 languageCode: en-us
 title: Fungexpo
 module:
@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: "/images/fungexpo_logo_226x64.jpg"
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: false
   search: true
@@ -69,15 +69,15 @@ params:
     URL: "#"
 menu:
   main:
-  - name: Basidiomycota
-    weight: 5
-  - name: Ascomycota
-    weight: 4
-  - name: A-Z
-    weight: 3
-  - URL: contact
-    name: Contact
-    weight: 2
-  - URL: about
-    name: About
-    weight: 1
+  - name: Blog
+    URL: ''
+    weight: ''
+  - name: Fajlista
+    URL: ''
+    weight: ''
+  - name: About
+    URL: about
+    weight: "2"
+  - name: Contact
+    URL: contact
+    weight: "3"
